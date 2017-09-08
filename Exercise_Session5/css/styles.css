@@ -1,0 +1,52 @@
+* {
+    font-size: 1.2em;
+    font-family: "Arial", sans-serif;
+}
+
+body {
+    background-color: #A6CCD8;
+}
+
+h1 {
+    color: #ff0000;
+    font-family: "Broadway", monospace;
+}
+
+li {
+    font-size: 0.7em;
+}
+
+#RightSide {
+    float: right;
+    width: 38%;
+    border: 2px solid black;
+}
+
+#LeftSide {
+    width: 60%;
+    float: left;
+}
+
+img {
+    padding: 10px;
+    width: auto;
+}
+
+#hint {
+    font-style: italic;
+    font-size: inherit;
+}
+
+#flt {
+    color: purple;
+    font-size: inherit;
+}
+
+#rght {
+    color: orange;
+    font-size: inherit;
+}
+
+p.superClass{
+    color: green;
+}
