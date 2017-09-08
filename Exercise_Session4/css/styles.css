@@ -1,0 +1,21 @@
+* {
+  font-size: 1.2em;
+}
+
+body {
+    background-color: #8264F4;
+}
+
+h1 {
+    color: #ff0000;
+    font-family: "ComicSans", monospace;
+}
+
+li {
+    font-size: 0.7em;
+}
+
+img {
+  border-style: solid;
+  border-color: grey;
+}
