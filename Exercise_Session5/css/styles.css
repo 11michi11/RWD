@@ -3,6 +3,10 @@
     font-family: "Arial", sans-serif;
 }
 
+#button {
+    background-color: rgb(200, 200, 200);
+}
+
 body {
     background-color: #A6CCD8;
 }
@@ -42,7 +46,7 @@ img {
     font-size: inherit;
 }
 
-#rght {
+#right {
     color: orange;
     font-size: inherit;
 }

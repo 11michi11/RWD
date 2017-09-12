@@ -1,0 +1,32 @@
+* {
+    font-size: 1em;
+    font-family: "Arial", sans-serif;
+}
+
+body {
+    background-color: #D1842C;
+    display: flex;
+}
+.outerBox{
+    width: 400px;
+    padding: 10px;
+    margin: 0;
+    float: left;
+}
+
+p{
+    border: 5px solid #000000;
+}
+
+
+
+
+.box {
+    float: left;
+    background-color: lightgray;
+    color: darkblue;
+    width: 300px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 0;
+}

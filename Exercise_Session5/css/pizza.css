@@ -1,0 +1,22 @@
+* {
+    font-size: 1.2em;
+    font-family: "Arial", sans-serif;
+}
+
+body{
+    background-image: url("../images/backgroundpizza.jpg");
+    /* background-repeat: no-repeat; */
+}
+h1 {
+    color: #ff0000;
+    font-family: "Broadway", monospace;
+}
+
+li {
+    font-size: 0.7em;
+}
+
+img {
+    padding: 10px;
+    width: auto;
+}
