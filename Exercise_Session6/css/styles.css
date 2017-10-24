@@ -4,8 +4,74 @@ body {
 
 .animal_main {
     height: 150px;
+    clear:left;
+    float:left;
+    border: 4px outset yellow;
+}
+div{
+    overflow: visible;
+    height: 210px;
+}
+#crocodile{  
+    background-color: beige;
+    float: left;
+    width: 751px;
+}
+#elephant{
+    background-color:cornflowerblue;
+    float: left;
+    width: 751px;
+}
+#giraffe{
+    background-color:forestgreen;
+    float: left;
+    width: 751px;
+}
+#tiger{
+    background-color:darkgrey;
+    float: left;
+    width: 751px;
 }
 
 .animal_card {
-    width: 200px;   
+    width: 200px;
+}
+p{
+    text-align: justify;
+    padding: 5px;
+}
+#cheetah{
+    border: 5px solid #222222;
+    position: fixed;
+    left: 290px;
+    z-index: 1;
+    margin-top: 270px;
+}
+#hip{
+    border: 5px solid #444444;
+    position: fixed;
+    left: 470px;
+    z-index: 2;
+    margin-top: 245px;
+}
+#lion{
+    border: 5px solid #777777;
+    position: fixed;
+    left: 650px;
+    z-index: 3;
+    margin-top: 220px;
+}
+#ostrich{
+    border: 5px solid #AAAAAA;
+    position: fixed;
+    left: 830px;
+    z-index: 2;
+    margin-top: 245px;
+}
+#zebra{
+    border: 5px solid #DDDDDD;
+    position: fixed;
+    left: 1010px;
+    z-index: 1;
+    margin-top: 270px;
 }
