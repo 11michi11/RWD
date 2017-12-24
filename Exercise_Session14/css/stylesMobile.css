@@ -1,0 +1,29 @@
+body,
+html {
+    height: 100%;
+}
+
+#logo {
+    background-color: orange;
+    margin: 5px
+}
+
+#menuItem {
+    background-color: red;
+    margin: 5px;
+}
+
+#right{
+    height: 75%;
+    background-color: green;
+}
+
+#content{
+    height: 75%;
+    background-color: orangered;
+}
+
+footer{
+    background-color: blue;
+
+}
